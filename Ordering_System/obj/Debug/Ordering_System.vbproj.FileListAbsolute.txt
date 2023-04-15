@@ -1,0 +1,76 @@
+c:\users\simpleed\documents\visual studio 2012\Projects\Ordering_System\Ordering_System\bin\Debug\Ordering_System.exe.config
+c:\users\simpleed\documents\visual studio 2012\Projects\Ordering_System\Ordering_System\bin\Debug\Ordering_System.exe
+c:\users\simpleed\documents\visual studio 2012\Projects\Ordering_System\Ordering_System\bin\Debug\Ordering_System.pdb
+c:\users\simpleed\documents\visual studio 2012\Projects\Ordering_System\Ordering_System\bin\Debug\Ordering_System.xml
+c:\users\simpleed\documents\visual studio 2012\Projects\Ordering_System\Ordering_System\bin\Debug\MySql.Data.dll
+c:\users\simpleed\documents\visual studio 2012\Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.vbprojResolveAssemblyReference.cache
+c:\users\simpleed\documents\visual studio 2012\Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.Form1.resources
+c:\users\simpleed\documents\visual studio 2012\Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.Resources.resources
+c:\users\simpleed\documents\visual studio 2012\Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.vbproj.GenerateResource.Cache
+c:\users\simpleed\documents\visual studio 2012\Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.exe
+c:\users\simpleed\documents\visual studio 2012\Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.xml
+c:\users\simpleed\documents\visual studio 2012\Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.pdb
+c:\users\simpleed\documents\visual studio 2012\Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.f_dashboard.resources
+c:\users\simpleed\documents\visual studio 2012\Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.f_users.resources
+c:\users\simpleed\documents\visual studio 2012\Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.f_sales.resources
+c:\users\simpleed\documents\visual studio 2012\Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.f_products.resources
+c:\users\simpleed\documents\visual studio 2012\Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.f_report.resources
+c:\users\simpleed\documents\visual studio 2012\Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.f_items.resources
+c:\users\simpleed\documents\visual studio 2012\Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.f_orders.resources
+c:\users\simpleed\documents\visual studio 2012\Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.f_customerorders.resources
+c:\users\simpleed\documents\visual studio 2012\Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.f_customers.resources
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\Ordering_System.exe.config
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\Ordering_System.exe
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\Ordering_System.pdb
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\Ordering_System.xml
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\MySql.Data.dll
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\Google.Protobuf.dll
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\ZstdNet.dll
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\System.Memory.dll
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\MySql.Data.xml
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\obj\Debug\Ordering_System.vbproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\obj\Debug\Ordering_System.vbproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\obj\Debug\Ordering_System.Form1.resources
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\obj\Debug\Ordering_System.f_customerorders.resources
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\obj\Debug\Ordering_System.f_customers.resources
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\obj\Debug\Ordering_System.f_dashboard.resources
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\obj\Debug\Ordering_System.f_items.resources
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\obj\Debug\Ordering_System.f_orders.resources
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\obj\Debug\Ordering_System.f_products.resources
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\obj\Debug\Ordering_System.f_report.resources
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\obj\Debug\Ordering_System.f_sales.resources
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\obj\Debug\Ordering_System.f_users.resources
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\obj\Debug\Ordering_System.Resources.resources
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\obj\Debug\Ordering_System.vbproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\obj\Debug\Ordering_System.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\obj\Debug\Ordering_System.vbproj.CopyComplete
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\obj\Debug\Ordering_System.exe
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\obj\Debug\Ordering_System.xml
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\obj\Debug\Ordering_System.pdb
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\MySqlBackup.dll
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\Google.Protobuf.pdb
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\Google.Protobuf.xml
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\System.Buffers.xml
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\System.Memory.xml
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\CsvHelper.dll
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\CsvHelper.xml
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\obj\Debug\Ordering_System.f_upload.resources
