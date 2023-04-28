@@ -104,7 +104,7 @@ Partial Class f_dashboard
         Me.Button1.BackColor = System.Drawing.Color.DodgerBlue
         Me.Button1.FlatAppearance.BorderSize = 2
         Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button1.Font = New System.Drawing.Font("Yu Gothic UI", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button1.Font = New System.Drawing.Font("Yu Gothic UI", 10.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button1.ForeColor = System.Drawing.Color.White
         Me.Button1.Location = New System.Drawing.Point(8, 124)
         Me.Button1.Name = "Button1"
@@ -132,7 +132,7 @@ Partial Class f_dashboard
         Me.Button3.BackColor = System.Drawing.Color.DodgerBlue
         Me.Button3.FlatAppearance.BorderSize = 2
         Me.Button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button3.Font = New System.Drawing.Font("Yu Gothic UI", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button3.Font = New System.Drawing.Font("Yu Gothic UI", 7.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button3.ForeColor = System.Drawing.Color.White
         Me.Button3.Location = New System.Drawing.Point(8, 228)
         Me.Button3.Name = "Button3"
@@ -174,7 +174,7 @@ Partial Class f_dashboard
         Me.Button6.BackColor = System.Drawing.Color.DodgerBlue
         Me.Button6.FlatAppearance.BorderSize = 2
         Me.Button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button6.Font = New System.Drawing.Font("Yu Gothic UI", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button6.Font = New System.Drawing.Font("Yu Gothic UI", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button6.ForeColor = System.Drawing.Color.White
         Me.Button6.Location = New System.Drawing.Point(8, 384)
         Me.Button6.Name = "Button6"
@@ -202,7 +202,7 @@ Partial Class f_dashboard
         Me.Button8.BackColor = System.Drawing.Color.DodgerBlue
         Me.Button8.FlatAppearance.BorderSize = 2
         Me.Button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button8.Font = New System.Drawing.Font("Yu Gothic UI", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button8.Font = New System.Drawing.Font("Yu Gothic UI", 7.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button8.ForeColor = System.Drawing.Color.White
         Me.Button8.Location = New System.Drawing.Point(8, 488)
         Me.Button8.Name = "Button8"
@@ -400,7 +400,7 @@ Partial Class f_dashboard
         '
         'f_dashboard
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 21.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(10.0!, 28.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.White
         Me.ClientSize = New System.Drawing.Size(1200, 740)

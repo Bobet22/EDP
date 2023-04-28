@@ -74,3 +74,4 @@ C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\De
 C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\Microsoft.Bcl.HashCode.xml
 C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\obj\Debug\Ordering_System.f_upload.resources
+C:\Users\LENOVO\Downloads\Ordering_System\Ordering_System\Ordering_System\obj\Debug\Ordering_System.vbproj.ResolveComReference.cache
